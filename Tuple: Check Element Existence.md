@@ -10,9 +10,11 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
+```
 t =eval(input())
 print("52" in t)
 print("12" in t)
+```
 
 
 ## Output
